@@ -1,5 +1,6 @@
 # Project-description
-关于我做过项目的一些描述
+
+下面是我做过项目的一些截图，因为上家公司的原因，项目Apk不能拿来用做演示；我找来一些项目中截图用作供面试官参考。
 
 ## 地理寻宝
 
@@ -20,3 +21,7 @@
 ## 易淘
 
 ![](http://ovmzdfex7.bkt.clouddn.com/17-9-14/17079625.jpg)
+
+## Eshop
+
+![](http://ovmzdfex7.bkt.clouddn.com/17-9-14/4558243.jpg)
